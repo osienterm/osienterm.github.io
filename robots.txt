@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osienterm.github.io/sitemap
+Sitemap: https://osienterm.github.io/app/sitemap
+Sitemap: https://osienterm.github.io/assets/sitemap
+Sitemap: https://osienterm.github.io/css/sitemap
+Sitemap: https://osienterm.github.io/includes/sitemap
+Sitemap: https://osienterm.github.io/item/sitemap
+Sitemap: https://osienterm.github.io/src/sitemap
